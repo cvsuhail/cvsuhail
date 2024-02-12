@@ -29,14 +29,17 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  <a href="">
+    <img alt="JavaScript" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=javascript&logoColor=white">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atypescript">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+  <a href="">
+    <img alt="TypeScript" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=typescript&logoColor=white">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="">
+    <img alt="Dart" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=dart&logoColor=black">
+  </a>
+  <a href="">
+    <img alt="Python" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=python&logoColor=black">
   </a>
 </p>
 
