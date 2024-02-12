@@ -73,25 +73,19 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </p>
 
-### ⚡ Recent GitHub Activity
+<!-- ### ⚡ Recent GitHub Activity
 <p>
  <a href="#">
    <img alt="suhail's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cvsuhail&custom_title=cvsuhail's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  </a>
  <br/>
+</p> -->
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+<!-- 	<a href="https://cvsuhail.github.io/web/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
+	<a href="https://github.com/cvsuhail" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/suhailcv/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:cvsuhail.ckd@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.instagram.com/_cvee_s?igsh=MWplejMxcWw0MWx6OA==" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
-<!--
-**cvsuhail/cvsuhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
