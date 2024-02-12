@@ -48,6 +48,10 @@
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="React Native" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=native&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2320232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%2320232a.svg?logo=numpy&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%2320232a.svg?logo=pandas&logoColor=%2361DAFB"></a>
+  
+  
 </p>
 
 <!--
