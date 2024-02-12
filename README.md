@@ -29,18 +29,24 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <a href="">
+  <a href="#">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?logo=javascript&logoColor=white">
   </a>
-  <a href="">
+  <a href="#">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23E34F26.svg?logo=typescript&logoColor=white">
   </a>
-  <a href="">
+  <a href="#">
     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23F7DF1E.svg?logo=dart&logoColor=black">
   </a>
-  <a href="">
+  <a href="#">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=python&logoColor=black">
   </a>
+</p>
+
+### 🧰 Frameworks and Libraries
+<p>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="React Native" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=reactnative&logoColor=%2361DAFB"></a>
 </p>
 
 <!--
