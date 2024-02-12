@@ -14,7 +14,7 @@
 <hr/>
 
 
-## Creative🎡, Self-learner👩‍🎓, Dedicated🎯, Passionate developer👩‍💻 with decent moral values and a strong focus on creating dynamic and engaging user experiences.
+### Creative🎡, Self-learner👩‍🎓, Dedicated🎯, Passionate developer👩‍💻 with decent moral values and a strong focus on creating dynamic and engaging user experiences.
 
 
 ## 🔥 Streak Stats
@@ -24,6 +24,8 @@
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
+
+## 🛠️ Here's what I bring to the table:
 
 <!--
 **cvsuhail/cvsuhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
