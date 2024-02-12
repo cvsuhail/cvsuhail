@@ -59,11 +59,18 @@
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
-### 🗄️ Version Control System and project tracking tools
-<p>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab%2300f.svg?logo=gitlab&logoColor=white"></a>
-    <a href="#"><img alt="Jira" src ="https://img.shields.io/badge/Jira%23316192.svg?logo=jira&logoColor=white"></a>
+## 📊 Github Stats
+
+### 💻 GitHub Profile Stats
+<p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="suhail's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cvsuhail&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="suhail's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvsuhail&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <!--
