@@ -30,16 +30,16 @@
 ### 👨‍💻 Programming Languages
 <p>
   <a href="">
-    <img alt="JavaScript" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=javascript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?logo=javascript&logoColor=white">
   </a>
   <a href="">
-    <img alt="TypeScript" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=typescript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23E34F26.svg?logo=typescript&logoColor=white">
   </a>
   <a href="">
-    <img alt="Dart" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=dart&logoColor=black">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23F7DF1E.svg?logo=dart&logoColor=black">
   </a>
   <a href="">
-    <img alt="Python" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=python&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=python&logoColor=black">
   </a>
 </p>
 
