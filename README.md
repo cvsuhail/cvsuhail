@@ -49,9 +49,21 @@
   <a href="#"><img alt="React Native" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2320232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%2320232a.svg?logo=numpy&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%2320232a.svg?logo=pandas&logoColor=%2361DAFB"></a>
-  
-  
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%2320232a.svg?logo=pandas&logoColor=%2361DAFB"></a>  
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+</p>
+
+### 🗄️ Version Control System and project tracking tools
+<p>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab%2300f.svg?logo=gitlab&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src ="https://img.shields.io/badge/Jira%23316192.svg?logo=jira&logoColor=white"></a>
 </p>
 
 <!--
