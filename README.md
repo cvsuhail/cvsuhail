@@ -13,9 +13,9 @@
 
 <hr/>
 
-<samp>
-  ## Creative🎡, Self-learner👩‍🎓, Dedicated🎯, Passionate developer👩‍💻 with decent moral values and a strong focus on creating dynamic and engaging user experiences.
-</samp>
+
+## Creative🎡, Self-learner👩‍🎓, Dedicated🎯, Passionate developer👩‍💻 with decent moral values and a strong focus on creating dynamic and engaging user experiences.
+
 
 ## 🔥 Streak Stats
 <p align="center">
