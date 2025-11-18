@@ -17,7 +17,7 @@ Currently building and growing:
 
 ### 🏢 Startups
 - **🟦 awwads.in** — A smart platform simplifying online presence & digital branding.  
-- **🟩 peedia.online** — A modern digital business directory & lead-generation platform.
+- **🟩 peedia.online** — An ecommerce ecosystem SASS.
 
 ---
 
